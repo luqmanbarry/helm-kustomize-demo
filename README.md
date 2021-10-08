@@ -22,6 +22,8 @@ From within exokustom dir, execute below command
 
 `
 kubectl apply -k base
+`
 
+`
 kubectl apply -k overlays/test
 `
